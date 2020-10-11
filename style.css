@@ -108,7 +108,8 @@ footer p {
 
 
 
-form{
+form{   
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
 	border: medium solid #1F1B51;
 	margin-top:50px;
 	padding: 0px;
