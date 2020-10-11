@@ -122,3 +122,10 @@ label{
 	display: block;
 	
 }
+input, textarea{
+	display: block;
+	width: 100%;
+	border:2px solid hsla(244,51%,38%,0.84);
+	padding: 10px;
+    border-radius: 5px;
+}
