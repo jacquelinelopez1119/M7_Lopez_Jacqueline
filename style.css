@@ -129,3 +129,25 @@ input, textarea{
 	padding: 10px;
     border-radius: 5px;
 }
+#submit{
+	border: 0;
+	background: #1F1B51;
+	padding: 10px;
+	color: aliceblue;
+	margin: 10px 0;
+	width: auto;
+	text-transform: uppercase;
+	cursor: pointer;
+	display: block;
+
+}
+#reset{
+	border: 0;
+	background: #1F1B51;
+	padding: 10px;
+	color: aliceblue;
+	text-transform: uppercase;
+	cursor: pointer;
+	width: auto;
+	display: block;
+}
